@@ -43,7 +43,7 @@ Once in text editor, insert your name here:
 - Juho H
 - Kirka B
 - Jason H
-- ...
+- Jonas F
 
 Save your changes in the file.
 
