@@ -1,12 +1,12 @@
 # My first push
 
-### Create a new user on GitHub
+### 1. Create a new user on GitHub
 
 Go to [GitHub](https://github.com) and create a new user for yourself.
 
 IMPORTANT: Submit your username to Sampo and Juho from [HERE](https://docs.google.com/forms/d/1sPgajPRnoF4w3GFfciVIQS-Jz2V1MQLKMnuSfiMLOJ4/viewform) so we can add you rights to the project.
 
-### Set up GitHub application
+### 2. Set up GitHub application
 
 Once you have your account registered do these steps:
 
@@ -15,7 +15,7 @@ Once you have your account registered do these steps:
 - start the app
 - sign in with your GitHub account
 
-### Clone this repository
+### 3. Clone this repository
 
 Start by opening Finder and creating new folders:
 
@@ -35,7 +35,7 @@ You now see all the changes made through the app. Press button "Changes" from le
 
 Open Finder again and go to the folder you just cloned. You should see a single file called ```README.md```. Double click the file and it should open in TextEdit.
 
-### Modify README.md file
+### 4. Modify README.md file
 
 Once in text editor, insert your name here:
 
@@ -46,7 +46,7 @@ Once in text editor, insert your name here:
 
 Save your changes in the file.
 
-### Commit your changes to GitHub
+### 5. Commit your changes to GitHub
 
 Go back to the app again. Make sure the checkbox in file ```README.md``` is toggled in the app. If you click the file you should see all the changes you made. Write a public summary message to describe your modifications. For example, you can use the following message:
 	
@@ -54,6 +54,6 @@ Go back to the app again. Make sure the checkbox in file ```README.md``` is togg
 
 Press button "Commit". You should now see a new section, "Unsynced Commits" with a commit message line. Press button "Sync".
 
-### Go back to browser and refresh. 
+### 6. Go back to browser and refresh. 
 	
 Pat yourself in the back and enjoy.
