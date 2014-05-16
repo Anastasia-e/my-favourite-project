@@ -48,6 +48,7 @@ List of people who know how to use GitHub:
 - Antonia
 - Thomas Z  
 - Aku M
+- Anastasia E
 
 - HEJHEJHEJ
 
