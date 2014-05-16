@@ -4,11 +4,11 @@ Go to [GitHub](https://github.com) and create a new user for yourself.
 
 ### Set up GitHub application
 
-Once done do these steps:
+Once you have your account registered do these steps:
 
 - download GitHub for Mac. Get it [here](https://mac.github.com/)
-- extract the zip file and drag the program to /Applications
-- start the program
+- extract the zip file and drag the app to /Applications
+- start the app
 - sign in with your GitHub account
 
 ### Clone this repository
@@ -22,19 +22,28 @@ In browser, click the button "Clone in Desktop" on the right navigation bar at g
 
 Your browser will probably prompt for application launch. Allow this.
 
-Follow the steps in the program and point the clone to be located at
+Follow the steps in the app and point the clone to be located at
 
 	/Users/{{myusername}}/dev/my-favourite-project
 
-The program now copies the file(s) from GitHub repository to your own computer.
+The app now copies the file(s) from GitHub repository to your own computer.
 
-Open Finder and go to the folder you just cloned. Double click README.md which is this file.
+Open Finder once again and go to the folder you just cloned. Double click README.md and the file should open in a text editor.
 
-### Type your name here
+### Modify README.md file
 
-Once you've finished with the previous steps, put your name here:
+In text editor, insert your name here:
 
 - Sampo Haavisto
 - Juho Hautala
+- ...
 
-### Commit your changes in GitHub for Mac
+Save your changes in the file.
+
+### Commit your changes in GitHub app
+
+Go back to the app again. Make sure the checkbox in file ```README.md``` is toggled in the app. If you click the file you should see all the changes you made. Write a public summary message to describe your modifications. Press button "Commit".
+	
+	Add my name Firstname Lastname in readme
+	
+You may leave the Description field empty.
