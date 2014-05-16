@@ -42,9 +42,18 @@ Once in text editor, insert your name here:
 - Sampo H
 - Juho H
 - Kirka B
+<<<<<<< HEAD
+- Saara S
+- Jason H
+- ...
+=======
 - Jason H
 - Ville YK
+<<<<<<< HEAD
 - Antonia
+=======
+>>>>>>> FETCH_HEAD
+>>>>>>> FETCH_HEAD
 
 Save your changes in the file.
 
