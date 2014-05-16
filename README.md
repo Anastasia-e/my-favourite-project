@@ -1,6 +1,10 @@
+# My first push
+
 ### Create a new user on GitHub
 
 Go to [GitHub](https://github.com) and create a new user for yourself.
+
+IMPORTANT: Submit your username to Sampo and Juho from [HERE](https://docs.google.com/forms/d/1sPgajPRnoF4w3GFfciVIQS-Jz2V1MQLKMnuSfiMLOJ4/viewform) so we can add you rights to the project.
 
 ### Set up GitHub application
 
