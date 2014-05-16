@@ -34,8 +34,9 @@ Open Finder again and go to the folder you just cloned. You should see a single 
 
 Once in text editor, insert your name here:
 
-- Sampo Haavisto
-- Juho Hautala
+- Sampo H
+- Juho H
+- Kirka B
 - ...
 
 Save your changes in the file.
