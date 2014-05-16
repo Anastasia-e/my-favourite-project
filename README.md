@@ -42,8 +42,10 @@ Once in text editor, insert your name here:
 - Sampo H
 - Juho H
 - Kirka B
+- Saara S
 - Jason H
 - Jonas F
+- Ville YK
 
 Save your changes in the file.
 
