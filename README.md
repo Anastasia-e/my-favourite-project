@@ -44,6 +44,7 @@ Once in text editor, insert your name here:
 - Kirka B
 - Jason H
 - Ville YK
+- Antonia
 
 Save your changes in the file.
 
