@@ -29,7 +29,7 @@ Follow the steps in the GitHub app and point the clone to be located at your new
 
 	/Users/{{myusername}}/dev/
 	
-The app now syncs this project repository from GitHub to your own computer.
+The app now syncs this project repository from GitHub to your own computer. LOLOLOLOLOLOL
 
 You now see all the changes made through the app. Press button "Changes" from left navigation.
 
@@ -47,6 +47,7 @@ List of people who know how to use GitHub:
 - Ville YK
 - Antonia
 - Thomas Z  
+- 
 
 Save your changes in the file.
 
