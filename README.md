@@ -16,7 +16,6 @@ Once you have your account registered do these steps:
 Start by opening Finder and creating new folders:
 
 - ```/Users/{{myusername}}/dev```
-- ```/Users/{{myusername}}/dev/my-favourite-project```
 
 Back in browser, click the button "Clone in Desktop" on the right navigation bar at github's project page.
 
@@ -24,9 +23,11 @@ Your browser will probably prompt for application launch. Allow this.
 
 Follow the steps in the GitHub app and point the clone to be located at your new folder:
 
-	/Users/{{myusername}}/dev/my-favourite-project
-
+	/Users/{{myusername}}/dev/
+	
 The app now syncs this project repository from GitHub to your own computer.
+
+You now see all the changes made through the app. Press button "Changes" from left navigation.
 
 Open Finder again and go to the folder you just cloned. You should see a single file called ```README.md```. Double click the file and it should open in TextEdit.
 
