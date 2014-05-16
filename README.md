@@ -37,8 +37,7 @@ Open Finder again and go to the folder you just cloned. You should see a single 
 
 ### 4. Modify README.md file
 
-Once in text editor, insert your name here:
-
+List of people who know how to use GitHub:
 - Sampo H
 - Juho H
 - Kirka B
@@ -46,6 +45,7 @@ Once in text editor, insert your name here:
 - Jason H
 - Jonas F
 - Ville YK
+- Antonia
 
 Save your changes in the file.
 
