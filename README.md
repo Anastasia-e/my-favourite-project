@@ -46,6 +46,7 @@ List of people who know how to use GitHub:
 - Jonas F
 - Ville YK
 - Antonia
+- Thomas Z  
 
 Save your changes in the file.
 
