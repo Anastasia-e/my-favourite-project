@@ -57,3 +57,7 @@ Press button "Commit". You should now see a new section, "Unsynced Commits" with
 ### 6. Go back to browser and refresh. 
 	
 Pat yourself in the back and enjoy.
+
+### There's always the the web interface fallback ...
+
+https://github.com/sampohaavisto/my-favourite-project/edit/master/README.md
